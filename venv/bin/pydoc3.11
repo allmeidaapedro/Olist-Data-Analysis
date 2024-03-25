@@ -1,0 +1,5 @@
+#!/Users/pedrohenriquealmeidaoliveira/Documents/data_science/olist_analysis/venv/bin/python3.11
+
+import pydoc
+if __name__ == '__main__':
+    pydoc.cli()
