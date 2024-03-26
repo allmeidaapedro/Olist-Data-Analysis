@@ -138,3 +138,9 @@ FROM olist.orders AS o
 LEFT JOIN olist.reviews AS r
 ON o.order_id = r.order_id
 -- A avaliação média é de aproximadamente 4 de 5 estrelas.
+
+
+
+
+
+
