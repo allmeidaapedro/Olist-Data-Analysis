@@ -1,5 +1,10 @@
 # Olist analysis
 - In this project, I will analyze a brazilian e-commerece (Olist) sales data to answer 39 business questions utilizing SQL. After that, I will construct a dashboard in PowerBI to highlight the most important KPI'S and indicators about the business.
+- What will you encounter here?
+    - Aggregate functions such as COUNT, SUM, AVG, MIN, MAX, ROUND, EXTRACT, TO_CHAR, etc.
+    - Clauses such as SELECT, WHERE, HAVING, GROUP BY, ORDER BY, CASE WHEN, LIMIT.
+    - Window functions such as RANK, with ROW, OVER, PARTITION BY.
+    - CTE'S and Subqueries.
 
 #### Data schema
 
