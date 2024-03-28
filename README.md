@@ -171,3 +171,11 @@ Sellers Dataset
 - `seller_city`: Seller city name.
 - `seller_state`: Seller state.
 
+#### Dataset link
+- The dataset was collected from kaggle.
+- Link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_order_items_dataset.csv
+
+#### Contact me
+- Linkedin: https://www.linkedin.com/in/pedro-almeida-ds/
+- Github: https://github.com/allmeidaapedro
+- Gmail: pedrooalmeida.net@gmail.com
