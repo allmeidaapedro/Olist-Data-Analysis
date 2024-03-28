@@ -90,90 +90,84 @@ Sellers Dataset
 - `seller_state`: Seller state.
 
 #### Business questions
-- How many unique customers are there in the database?
-- How many orders were made?
-- What was the total revenue?
-- What are the top 5 cities with the most orders?
-- How many orders were delivered in each state?
-- What is the average payment value per order?
-- Which product categories have the highest and lowest sales volume?
-- How many sellers are there in each state?
-- How many customers are there in each state?
-- What is the average review score given by customers?
-- What is the average freight value per order?
-- How many orders were delivered late?
-- What are the most common payment types?
-- What is the average number of installments per payment?
-- How many orders have multiple items?
-
-- How does the review score vary by product category?
-- What is the trend of the number of orders over the years?
-- What is the trend of the number of orders over the week?
-- What is the trend of the number of orders over the day?
-- What is the month with the highest number of orders?
-- What is the month with the highest revenue?
-- What is the average delivery time for orders in each state?
-- How many orders were canceled?
-- What is the average payment value per product category?
-- Which seller has the highest average order value?
-- What is the average number of days between order approval and delivery?
-- What is the average order value for orders with review scores of 1, 2, 3, 4, and 5?
-- What is the average number of products per order?
-- How many orders were delivered before the estimated delivery date?
-- How many orders were delivered by the estimated delivery date?
-- What is the average payment value for orders with different payment types?
-
-- What are the top 5 most profitable product categories, their average review scores and the state that buys them most.
-- What insights can be drawn from the relationship between the seller's location and the customer's location regarding late deliveries?
-- Is there a correlation between the number of payment installments and the review score?
-- How do delivery times vary between different product categories?
-- Are there any observable trends in review scores?
-- Is there a relationship between the seller's review score and the product's category?
-- How does the average order value change during peak shopping seasons?
-- Is there a relationship between the number of products in an order and the likelihood of a customer leaving a review?
-- Is there a correlation between the distance of the seller from the customer and the likelihood of a late delivery?
+1. How many unique customers are there in the database?
+2. How many orders were made?
+3. What was the total revenue?
+4. What are the top 5 cities with the most orders?
+5. How many orders were delivered in each state?
+6. What is the average payment value per order?
+7. Which product categories have the highest and lowest sales volume?
+8. How many sellers are there in each state?
+9. How many customers are there in each state?
+10. What is the average review score given by customers?
+11. What is the average freight value per order?
+12. How many orders were delivered late?
+13. What are the most common payment types?
+14. What is the average number of installments per payment?
+15. How many orders have multiple items?
+16. How does the review score vary by product category?
+17. What is the trend of the number of orders over the years?
+18. What is the trend of the number of orders over the week?
+19. What is the trend of the number of orders over the day?
+20. What is the month with the highest number of orders?
+21. What is the month with the highest revenue?
+22. What is the average delivery time for orders in each state?
+23. How many orders were canceled?
+24. What is the average payment value per product category?
+25. Which seller has the highest average order value?
+26. What is the average number of days between order approval and delivery?
+27. What is the average order value for orders with review scores of 1, 2, 3, 4, and 5?
+28. What is the average number of products per order?
+29. How many orders were delivered before the estimated delivery date?
+30. How many orders were delivered by the estimated delivery date?
+31. What is the average payment value for orders with different payment types?
+32. What are the top 5 most profitable product categories, their average review scores and the state that buys them most.
+33. What insights can be drawn from the relationship between the seller's location and the customer's location regarding late deliveries?
+34. Is there a correlation between the number of payment installments and the review score?
+35. How do delivery times vary between different product categories?
+36. Are there any observable trends in review scores?
+37. Is there a relationship between the seller's review score and the product's category?
+38. How does the average order value change during peak shopping seasons?
+39. Is there a correlation between the distance of the seller from the customer and the likelihood of a late delivery?
 
 In portuguese:
+1. Quantos clientes únicos existem no banco de dados?
+2. Quantos pedidos foram feitos?
+3. Qual foi a receita total?
+4. Quais são as 5 cidades com mais pedidos?
+5. Quantos pedidos foram entregues em cada estado?
+6. Qual é o valor médio de pagamento por pedido?
+7. Quais categorias de produtos têm o maior e o menor volume de vendas?
+8. Quantos vendedores existem em cada estado?
+9. Quantos clientes existem em cada estado?
+10. Qual é a pontuação média de avaliação dada pelos clientes?
+11. Qual é o valor médio do frete por pedido?
+12. Quantos pedidos foram entregues com atraso?
+13. Quais são os tipos de pagamento mais comuns?
+14. Qual é o número médio de parcelas por pagamento?
+15. Quantos pedidos têm múltiplos itens?
+16. Como a pontuação de avaliação varia por categoria de produto?
+17. Qual é a tendência do número de pedidos ao longo dos anos?
+18. Qual é a tendência do número de pedidos ao longo da semana?
+19. Qual é a tendência do número de pedidos ao longo do dia?
+20. Qual é o mês com o maior número de pedidos?
+21. Qual é o mês com a maior receita?
+22. Qual é o tempo médio de entrega para pedidos em cada estado?
+23. Quantos pedidos foram cancelados?
+24. Qual é o valor médio de pagamento por categoria de produto?
+25. Qual vendedor tem o maior valor médio de pedido?
+26. Qual é o número médio de dias entre a aprovação do pedido e a entrega?
+27. Qual é o valor médio do pedido para pedidos com pontuações de avaliação de 1, 2, 3, 4 e 5?
+28. Qual é o número médio de produtos por pedido?
+29. Quantos pedidos foram entregues antes da data de entrega estimada?
+30. Quantos pedidos foram entregues até a data de entrega estimada?
+31. Qual é o valor médio de pagamento para pedidos com diferentes tipos de pagamento?
+32. Quais são as 5 categorias de produtos mais lucrativas, suas pontuações médias de avaliação e o estado que as compra mais.
+33. Que insights podem ser tirados da relação entre a localização do vendedor e a localização do cliente em relação às entregas atrasadas?
+34. Existe correlação entre o número de parcelas de pagamento e a pontuação de avaliação?
+35. Como os tempos de entrega variam entre diferentes categorias de produtos?
+36. Existe correlação entre o tempo de entrega e a pontuação de avaliação?
+37. Existem tendências observáveis nas pontuações de avaliação?
+38. Como o valor médio do pedido muda durante as temporadas de compras de pico?
+39. Existe correlação entre a distância do vendedor para o cliente e a probabilidade de uma entrega atrasada?
 
-- Quantos clientes únicos existem no banco de dados?
-- Quantos pedidos foram feitos?
-- Qual foi a receita total?
-- Quais são as 5 cidades com mais pedidos?
-- Quantos pedidos foram entregues em cada estado?
-- Qual é o valor médio de pagamento por pedido?
-- Quais categorias de produtos têm o maior e o menor volume de vendas?
-- Quantos vendedores existem em cada estado?
-- Quantos clientes existem em cada estado?
-- Qual é a pontuação média de avaliação dada pelos clientes?
-- Qual é o valor médio do frete por pedido?
-- Quantos pedidos foram entregues com atraso?
-- Quais são os tipos de pagamento mais comuns?
-- Qual é o número médio de parcelas por pagamento?
-- Quantos pedidos têm múltiplos itens?
-
-- Como a pontuação de avaliação varia por categoria de produto?
-- Qual é a tendência do número de pedidos ao longo dos anos?
-- Qual é a tendência do número de pedidos ao longo da semana?
-- Qual é a tendência do número de pedidos ao longo do dia?
-- Qual é o mês com o maior número de pedidos?
-- Qual é o mês com a maior receita?
-- Qual é o tempo médio de entrega para pedidos em cada estado?
-- Quantos pedidos foram cancelados?
-- Qual é o valor médio de pagamento por categoria de produto?
-- Qual vendedor tem o maior valor médio de pedido?
-- Qual é o número médio de dias entre a aprovação do pedido e a entrega?
-- Qual é o valor médio do pedido para pedidos com pontuações de avaliação de 1, 2, 3, 4 e 5?
-- Qual é o número médio de produtos por pedido?
-- Quantos pedidos foram entregues antes da data de entrega estimada?
-- Quantos pedidos foram entregues até a data de entrega estimada?
-- Qual é o valor médio de pagamento para pedidos com diferentes tipos de pagamento?
-
-- Quais são as 5 categorias de produtos mais lucrativas, suas pontuações médias de avaliação e o estado que as compra mais.
-- Que insights podem ser tirados da relação entre a localização do vendedor e a localização do cliente em relação às entregas atrasadas?
-- Existe correlação entre o número de parcelas de pagamento e a pontuação de avaliação?
-- Como os tempos de entrega variam entre diferentes categorias de produtos?
-- Existem tendências observáveis nas pontuações de avaliação?
-- Existe relação entre a pontuação de avaliação do vendedor e a categoria do produto?
-- Como o valor médio do pedido muda durante as temporadas de compras de pico?
-- Existe relação entre o número de produtos em um pedido e a probabilidade de um cliente deixar uma avaliação?
-- Existe correlação entre a distância do vendedor para o cliente e a probabilidade de uma entrega atrasada?
