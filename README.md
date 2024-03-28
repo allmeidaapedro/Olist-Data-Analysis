@@ -1,5 +1,5 @@
 # Olist analysis
-- In this project, I will analyze a brazilian e-commerece (Olist) sales data to answer 45 business questions utilizing SQL. After that, I will construct a dashboard in PowerBI to highlight the most important KPI'S and indicators about the business.
+- In this project, I will analyze a brazilian e-commerece (Olist) sales data to answer 39 business questions utilizing SQL. After that, I will construct a dashboard in PowerBI to highlight the most important KPI'S and indicators about the business.
 
 #### Data schema
 
